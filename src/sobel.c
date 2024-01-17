@@ -38,3 +38,4 @@ void sobel(int width, int height, unsigned char *input, unsigned char *output) {
     output[(j + 1) * width - 1] = 0;
   }
 }
+//lalalalalalalala
